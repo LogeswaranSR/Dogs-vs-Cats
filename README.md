@@ -1,5 +1,6 @@
 # Dogs-vs-Cats
 A CNN Model to classify Dogs and Cats
+
 ![image](https://miro.medium.com/v2/resize:fit:1400/1*EvMbMNRHm_aOf1n4tDO1Xg.jpeg)
 
 # Details
