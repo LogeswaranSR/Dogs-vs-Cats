@@ -8,7 +8,7 @@ A Convolutional Neural Network (CNN) Model to classify Dogs and Cats
 This project aims to develop a model that can classify images of Cats and Dogs. The project achieves it by building and training a CNN model using Keras. The model is trained using Kaggle Dataset *Dogs-vs-Cats* and uses Data Augmentation. The model provides an Accuracy of 84%.
 
 # Dataset
-The project uses Dogs-vs-Cats Dataset from Kaggle.(Ended 10 yrs ago - as of 17/12/23)\
+The project uses Dogs-vs-Cats Dataset from Kaggle.(Ended 10 yrs ago - as of 17/12/23)
 
 The Dataset consists of 25,000 pictures of Dogs and Cats in its Training Data. The Test data contains 12,500 unlabelled pictures of Dogs and Cats. The motive of the competition is to develop a model that correctly predicts the Dogs and Cats, based on the given dataset.
 
